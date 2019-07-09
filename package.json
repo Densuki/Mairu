@@ -1,0 +1,22 @@
+{
+  "name": "rayron",
+  "version": "1.0.0",
+  "description": "Um bot de Java/JavaScript. Poderá ser usado para atualizar outros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Densuki/Rayron.git"
+  },
+  "author": "Densuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Densuki/Rayron/issues"
+  },
+  "homepage": "https://github.com/Densuki/Rayron#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
